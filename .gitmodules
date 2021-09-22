@@ -4,3 +4,6 @@
 [submodule "Notes_API"]
 	path = Notes_API
 	url = git@github.com:Zeddling/Notes_API.git
+[submodule "tasks_service"]
+	path = tasks_service
+	url = git@github.com:Zeddling/tasks_service.git
