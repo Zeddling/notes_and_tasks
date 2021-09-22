@@ -1,3 +1,6 @@
 [submodule "discovery"]
 	path = discovery
 	url = https://github.com/Zeddling/discovery
+[submodule "Notes_API"]
+	path = Notes_API
+	url = git@github.com:Zeddling/Notes_API.git
